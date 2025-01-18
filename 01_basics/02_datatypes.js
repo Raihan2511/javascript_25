@@ -11,7 +11,10 @@ let name="hitesh"   //string
 let age=34          //number
 let isLogggedIn = false //boolean
 
-//number => 2 to the power 53
+
+// DATA TYPES IN JS
+
+//number
 //bigint
 //string
 //Boolean
